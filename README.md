@@ -1,2 +1,19 @@
-# Mario Kart Carrera Bahn 2020
+# MarioKart-Carrera-Bahn
 
+Obwohl es auch andere Autorennbahnen gibt, so steht der Name Carrera für das Autorennbahn-Erlebnis und wird synonym für das Genre des Slotcar Racing verwendet. Bereits seit den frühen 1960er-Jahren begeistert die Serie Jung und Alt, Bastler und Tüftler. Rennspaß der virtuellen Art bietet hingegen die seit den 1990er-Jahren erfolgreiche MarioKart-Reihe. Bei den Wettstreiten in den Welten des ’Marioversums’ kommt es dabei nicht nur auf fahrerisches Geschick, sondern auch auf taktisches Fingerspitzengefühl an, um die verfügbaren Items günstig einzusetzen.
+
+Als technikbegeisterter Verein möchten wir vom Makerspace Gütersloh e.V. nun diese beiden Klassiker miteinander verbinden. Deshalb hacken und modifizieren wir eine Carrera-Strecke und erweitern sie mit Elementen von MarioKart.
+
+Hierzu wird auf einer Fläche von ca. 1m x 2m die Strecke samt modellierter Umgebung angebracht.
+
+Da uns ein lokaler Bezug des Projekts wichtig ist, werden wir rund um die Fahrbahn Modelle bekannter Orte und Gebäude Güterslohs platzieren, die im Stil von MarioKart gestaltet sind. Diese Modelle sollen jedoch nicht nur als passive Elemente den Streckenverlauf säumen, sondern aktiv in das Renngeschehen eingreifen oder selbst von diesem beeinflusst werden. So wird es ein als grüne Röhre gestaltetes Modell des Wasserturms geben, das von Zeit zu Zeit umkippt und dann die Fahrbahn versperrt. Daneben attackieren gefräßige Blumen von der Liebesinsel aus vorbeifahrende Autos, ein Thwomp-Theater fällt gelegentlich auf die Fahrbahn und die Fenster des Weberei-Modells klirren, wenn Rennautos an ihm vorbeirauschen.
+
+Um die von MarioKart bekannten Items zu realisieren, die ebenfalls maßgeblich den Rennerfolg der Fahrer bestimmen, werden wir kleine Bildschirme in die Fahrbahn integrieren, auf denen die Items angezeigt werden. Fährt nun ein Spieler über - an -  solch einem Bildschirm - vorbei -, so kann zweierlei passieren:
+
+Wenn es sich um ein durch einen Gegner platziertes Item handelt, so wird der Fahrer beeinträchtigt. Handelt es sich hingegen um ein unbekanntes Item, so wird dieses aufgesammelt und es erscheint auf einem persönlichen Bildschirm des Spielers. Durch einen zusätzlich an seinem Controller angebrachten Knopf kann dieses Item dann verwendet werden. Setzt der Spieler beispielsweise einen Panzer ein, so wird dies durch ein LED-Lauflicht signalisiert, das sich entlang der Strecke bewegt. Bei ‚Berührung‘ wird dann das betroffene Auto verlangsamt. Wird stattdessen eine Banane benutzt, so erscheint diese auf einem der Bildschirme in der Fahrbahn und bremst beim Darüberfahren den jeweiligen Spieler aus. Die Verwendung eines Pilzes führt auf der anderen Seite dazu, dass eine standardmäßige Drosselung der Geschwindigkeit kurzzeitig aufgehoben wird.
+
+Nach einem absolvierten Rennen werden die Ergebnisse der Fahrer mittels eines RFID-Chips, den jeder Spieler von uns vor seiner ersten Fahrt geschenkt bekommt, in eine Bestenliste eingetragen. So ermöglichen wir, dass individuelle Zeiten und Platzierungen gesichert werden und auch noch zu einem späteren Zeitpunkt zur Verfügung stehen. Da die Chips außer ihrer Nummernkennung keine weiteren persönlichen Daten speichern, ist dieses Verfahren auch datenschutzrechtlich unbedenklich.
+
+In unseren Räumlichkeiten in der Weberei besitzen wir neben einer gut ausgestatteten Holzwerkstatt mit CNC-Fräse einen Bereich für Modellierarbeiten zu dem 3D-Drucker und ein Lasercutter gehören. Darüber hinaus verfügen wir über eine Elektronikwerkstatt und Workstations zur Programmierung. Die Mitglieder unseres Vereins besitzen desweiteren durch ihren Beruf und Freizeitinteressen fundierte Kenntnisse und Erfahrung im Bereich des Modellbaus, der Automatisierung und Steuerungstechnik sowie in der Spielegestaltung.
+
+Wir freuen uns auf dieses Projekt.
